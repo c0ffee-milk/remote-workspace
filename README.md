@@ -29,6 +29,7 @@ This skill is the missing operating manual for all five.
 ## What it does
 
 | Step | Behavior |
+| --- | --- |
 | 0 | Checks for a live SSH master connection (`ssh -O check`); if absent, probes with `BatchMode` so key hosts connect silently and password hosts fail fast instead of hanging, then hands the login to you |
 | 1 | Verifies the host is reachable and reports the remote working directory |
 | 2 | Confirms and normalizes the remote workspace — never assumes a path from an earlier session |
