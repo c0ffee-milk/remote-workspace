@@ -167,3 +167,7 @@ workspace，跑一次环境探测，然后按探测结果执行命令、改文�
 `连接远程服务器 <host>`、`登录服务器 <host> 并在 /path/to/proj 里跑训练`。
 
 建议在 `~/.ssh/config` 中启用连接复用（见上文 Requirements），这样认证只需要做一次。
+
+## License
+
+MIT — see [LICENSE](LICENSE).

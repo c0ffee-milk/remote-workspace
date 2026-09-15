@@ -1,6 +1,7 @@
 ---
 name: remote-workspace
 description: Use when the user asks to connect to any remote server over SSH and work there; identify the remote host, connect first, confirm any provided remote workspace, probe the remote environment once, then run commands, edit files, and manage long-running jobs from that workspace with the same rigor as working locally.
+license: MIT
 ---
 
 # Remote Workspace
