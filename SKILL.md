@@ -13,7 +13,7 @@ Use this skill when the user asks to connect to or operate on a remote server, i
 - `登录服务器`
 - `连接主机 <host>`
 - `ssh 到 <host>`
-- work on a named SSH host such as `YuwanZ0914`
+- work on a named SSH host such as `my-gpu-box`
 
 The host can be an SSH config alias, hostname, IP address, or `user@host`. Do not assume a remote project directory from prior sessions unless the user provides or confirms it in the current session.
 
